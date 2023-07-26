@@ -4,8 +4,8 @@
 
 ## Product Guides
 
-* [Inventory](product-guides/inventory/README.md)
-  * [Manajemen Gudang](product-guides/inventory/manajemen-gudang/README.md)
-    * [Produk](product-guides/inventory/manajemen-gudang/produk/README.md)
-      * [Membuat Varian Produk](product-guides/inventory/manajemen-gudang/produk/membuat-varian-produk.md)
+* [Stok Persediaan](product-guides/stok-persediaan/README.md)
+  * [Manajemen Gudang](product-guides/stok-persediaan/manajemen-gudang/README.md)
+    * [Produk](product-guides/stok-persediaan/manajemen-gudang/produk/README.md)
+      * [Membuat Varian Produk](product-guides/stok-persediaan/manajemen-gudang/produk/membuat-varian-produk.md)
 * [Sales](product-guides/sales.md)
