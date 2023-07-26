@@ -1,4 +1,12 @@
-# 👋 Welcome to A Product
+---
+cover: >-
+  https://images.unsplash.com/photo-1495314736024-fa5e4b37b979?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxjb21wYW55fGVufDB8fHx8MTY5MDM2OTk1OXww&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
+# 👋 Selamat Datang di Kana ERP
+
+
 
 {% hint style="info" %}
 **GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.

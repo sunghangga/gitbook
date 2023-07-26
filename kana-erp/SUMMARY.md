@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 Selamat Datang di Kana ERP](README.md)
 
 ## Overview
 
