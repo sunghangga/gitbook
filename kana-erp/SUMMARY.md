@@ -8,4 +8,4 @@
   * [Manajemen Gudang](product-guides/stok-persediaan/manajemen-gudang/README.md)
     * [Produk](product-guides/stok-persediaan/manajemen-gudang/produk/README.md)
       * [Varian Produk](product-guides/stok-persediaan/manajemen-gudang/produk/varian-produk.md)
-* [Sales](product-guides/sales.md)
+* [Penjualan](product-guides/penjualan.md)
