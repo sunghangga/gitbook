@@ -11,4 +11,4 @@ description: >-
 
 **Produk**
 
-* Membuat Varian Produk
+* [Membuat Varian Produk](manajemen-gudang/produk/membuat-varian-produk.md)
