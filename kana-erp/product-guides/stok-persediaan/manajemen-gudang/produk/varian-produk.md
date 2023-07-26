@@ -1,8 +1,8 @@
-# Membuat Varian Produk
+# Varian Produk
 
 Untuk membuat varian dari suatu produk, yang pertama harus dilakukan adalah membuat atribut, dapat dilakukan melalui **Stok Persediaan > Konfigurasi > Atribut**. Buat baru untuk menambahkan atribut baru.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Buat Atribut Baru</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot_1 (1).png" alt=""><figcaption><p>Buat Atribut Baru</p></figcaption></figure>
 
 Contoh ingin menambahkan atribut warna, maka dapat mengikuti langkah berikut:
 
