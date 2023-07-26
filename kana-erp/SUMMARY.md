@@ -4,16 +4,8 @@
 
 ## Product Guides
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
-
-## Fundamentals
-
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-
-## Use Cases
-
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [Inventory](product-guides/inventory/README.md)
+  * [Manajemen Gudang](product-guides/inventory/manajemen-gudang/README.md)
+    * [Produk](product-guides/inventory/manajemen-gudang/produk/README.md)
+      * [Membuat Varian Produk](product-guides/inventory/manajemen-gudang/produk/membuat-varian-produk.md)
+* [Sales](product-guides/sales.md)

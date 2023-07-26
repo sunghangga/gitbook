@@ -1,4 +1,4 @@
-# 📎 Understanding Projects
+# Sales
 
 ## How Projects work
 
