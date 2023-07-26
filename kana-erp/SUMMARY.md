@@ -1,11 +1,6 @@
 # Table of contents
 
-* [👋 Selamat Datang di Kana ERP](README.md)
-
-## Overview
-
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [Overview](README.md)
 
 ## Product Guides
 
