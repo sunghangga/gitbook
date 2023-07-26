@@ -7,5 +7,5 @@
 * [Stok Persediaan](product-guides/stok-persediaan/README.md)
   * [Manajemen Gudang](product-guides/stok-persediaan/manajemen-gudang/README.md)
     * [Produk](product-guides/stok-persediaan/manajemen-gudang/produk/README.md)
-      * [Membuat Varian Produk](product-guides/stok-persediaan/manajemen-gudang/produk/membuat-varian-produk.md)
+      * [Varian Produk](product-guides/stok-persediaan/manajemen-gudang/produk/varian-produk.md)
 * [Sales](product-guides/sales.md)
