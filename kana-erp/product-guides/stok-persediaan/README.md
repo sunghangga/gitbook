@@ -6,6 +6,10 @@ Stok Persediaan adalah aplikasi inventaris dan sistem manajemen gudang, dengan a
 
 ### **Produk**
 
-{% content-ref url="manajemen-gudang/produk/varian-produk.md" %}
-[varian-produk.md](manajemen-gudang/produk/varian-produk.md)
+{% content-ref url="manajemen-gudang/produk/varian.md" %}
+[varian.md](manajemen-gudang/produk/varian.md)
+{% endcontent-ref %}
+
+{% content-ref url="manajemen-gudang/produk/kategori.md" %}
+[kategori.md](manajemen-gudang/produk/kategori.md)
 {% endcontent-ref %}
