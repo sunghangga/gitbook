@@ -1,29 +1,35 @@
 # Manajemen Produk
 
-Untuk membuat varian dari suatu produk, yang pertama harus dilakukan adalah membuat atribut, dapat dilakukan melalui **Stok Persediaan > Konfigurasi > Atribut**. Buat baru untuk menambahkan atribut baru.
+Untuk membuat produk baru, dapat dilakukan melalui **Stok Persediaan > Produk > Produk**.
 
-<figure><img src="../../../../.gitbook/assets/Screenshot_1.png" alt=""><figcaption><p>Buat Atribut Baru</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Daftar Produk</p></figcaption></figure>
 
-Contoh ingin menambahkan atribut warna, maka dapat mengikuti langkah berikut:
+Selanjutnya buat baru untuk menambahkan produk baru. Contoh ingin menambahkan produk baru, maka dapat mengikuti langkah berikut:
 
-1. Isi nama atribut "Warna".
-2. Pilih display type, jika ingin menampilkan color picker untuk atribut warna maka dapat memilih display type "Warna".
+1. Klik tab **Informasi Umum** untuk mengisi data pada informasi umum produk.
+2. Pada **Tipe Produk** pilih **"Storable Product"** agar dapat mengelola stoknya.
 
 {% hint style="info" %}
-Display type digunakan untuk mengatur tampilan pilihan saat memilih atribut pada produk, jika memilih "Radio" maka akan menampilkan radio button, jika memilih "Warna" akan menampilkan input color picker, begitu juga seterusnya.
+Gunakan tipe produk **"Storable Product"** jika ingin mengelola stok, dan gunakan **"Produk Konsumsi"** untuk stok yang tidak akan dikelola.
 {% endhint %}
 
-1. Pilih mode varian, dalam kasus ini menggunakan nilai defaultnya yaitu "Instanly".
-2. Menambah nilai atribut yang diinginkan pada tabel "Nilai - Nilai Atribut" dengan klik "Tambahkan satu baris", jika sudah lalu simpan pengubahan yang dibuat.
+3. Pilih **Satuan** dari produk, setelah itu maka **Purchase UoM** akan mengikuti sesuai satuannya. Purchase UoM (Unit of Measure) adalah satuan barang yang digunakan saat purchase atau pembelian barang.
 
-<figure><img src="../../../../.gitbook/assets/Screenshot_2.png" alt=""><figcaption><p>Menambahkan Nilai Atribut</p></figcaption></figure>
+{% hint style="info" %}
+Jika barang berupa kain, maka dapat memilih satuan meter (m), atau yang dijual berupa cairan maka dapat menggunakan liter (L).
+{% endhint %}
 
-5. Selanjutnya tambahkan atribut pada produk melalui **Stok Persediaan > Produk** lalu pilih produk yang ingin ditambahkan atribut atau buat baru jika belum memiliki produk.
-6. Pada tab "Attributes & Variants" tambahkan atribut yang sudah dibuat tadi dan isi kolom nilai sesuai varian yang tersedia untuk produk tersebut, lalu simpan pengubahan.
-7. Selanjutnya atur harga penjualan tiap varian dengan memilih "Atur" pada baris atribut yang ingin diatur.
+4. Pada input **Harga Jual** tambahkan harga jual untuk produk.
+5. Hapus **Pajak Pelanggan** jika tidak ingin mengenakan pajak untuk produk yang diinput.
+6. Masukkan **Modal** dari produk, hal ini sangat penting untuk diisi agar jurnal yang terbentuk tidak salah.
+7. Dalam **Kategori Produk** biarkan dalam kategori **"All"**.
+8. Tambahkan barcode pada **Barcode** untuk bisa melakukan print barcode dari produk yang diinput. Jika sudah maka akan terlihat seperti gambar di bawah.
 
-<figure><img src="../../../../.gitbook/assets/Screenshot_4.png" alt=""><figcaption><p>Menambahkan Varian Produk</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Informasi Umum Produk</p></figcaption></figure>
 
-8. Pilih varian yang ingin diatur harganya. Pada isian "Value Price Extra" input ekstra harga varian dari harga produk.
+9. Pada tab **Penjualan** centang **Tersedia di POS** untuk mengijinkan produk dijual melalui POS (Point of Sales).
 
-<figure><img src="../../../../.gitbook/assets/Screenshot_6.png" alt=""><figcaption><p>Mengatur Harga Ekstra Varian</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Setting Penjualan dari Produk</p></figcaption></figure>
+
+10. Jika ada penambahan varian atau kategori produk dapat mengikuti langkah pada halaman [varian produk](varian.md) dan tambah kategori pada halaman [kategori produk](kategori.md).
+11. Selanjutnya, jika tidak ada akun spesifik untuk produk, maka proses pembuatan produk baru selesai dan selanjutnya simpan produk.
