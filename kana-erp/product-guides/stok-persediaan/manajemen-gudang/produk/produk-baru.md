@@ -31,6 +31,6 @@ Jika barang berupa kain, maka dapat memilih satuan meter (m), atau yang dijual b
 
 <figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Setting Penjualan dari Produk</p></figcaption></figure>
 
-10. Jika ada penambahan varian atau kategori produk dapat mengikuti langkah pada halaman [varian produk](varian.md) dan tambah kategori pada halaman [kategori produk](kategori.md).
-11. Untuk melakukan penyesuaian stok, dapat mengikuti langkah pada halaman [penyesuaian stok](../penyesuaian-stok/).
+10. Jika ada penambahan varian atau kategori produk dapat mengikuti langkah pada halaman [**varian produk**](varian.md) dan tambah kategori pada halaman [**kategori produk**](kategori.md).
+11. Untuk melakukan penyesuaian stok, dapat mengikuti langkah pada halaman [**penyesuaian stok**](../penyesuaian-stok/).
 12. Selanjutnya, jika tidak ada akun spesifik untuk produk, maka proses pembuatan produk baru selesai dan selanjutnya simpan produk.
