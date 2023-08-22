@@ -1,6 +1,6 @@
 # Kategori
 
-Biasanya kategori digunakan untuk memudahkan dalam memilih produk di PoS ataupun dalam melakukan filter saat mencari produk. Berikut langkah-langkah untuk membuat kategori:
+Biasanya kategori digunakan untuk memudahkan dalam memilih produk di POS ataupun dalam melakukan filter saat mencari produk. Berikut langkah-langkah untuk membuat kategori:
 
 1. Buka menu **Stok Persediaan > Produk** lalu pilih salah satu produk.
 2. Pilih tab **Penjualan** di bawah pengaturan **POS** akan ditemukan kategori untuk mengatur kategori produk.
@@ -14,6 +14,6 @@ Biasanya kategori digunakan untuk memudahkan dalam memilih produk di PoS ataupun
 Jika kategori yang dibuat ada di bawah kategori lain, maka isi kategori induk dan jika kategori yang baru adalah kategori induk, maka biarkan kategori induk kosong.
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Jika sudah maka simpan pengubahan, dan proses selesai.

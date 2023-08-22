@@ -13,8 +13,8 @@ Contoh ingin menambahkan atribut warna, maka dapat mengikuti langkah berikut:
 Display type digunakan untuk mengatur tampilan pilihan saat memilih atribut pada produk, jika memilih **"Radio"** maka akan menampilkan radio button, jika memilih **"Warna"** akan menampilkan input color picker, begitu juga seterusnya.
 {% endhint %}
 
-1. Pilih mode varian, dalam kasus ini menggunakan nilai defaultnya yaitu **"Instanly"**.
-2. Menambah nilai atribut yang diinginkan pada tabel **Nilai - Nilai Atribut** dengan klik **Tambahkan satu baris**, jika sudah lalu simpan pengubahan yang dibuat.
+3. Pilih mode varian, dalam kasus ini menggunakan nilai defaultnya yaitu **"Instanly"**.
+4. Menambah nilai atribut yang diinginkan pada tabel **Nilai - Nilai Atribut** dengan klik **Tambahkan satu baris**, jika sudah lalu simpan pengubahan yang dibuat.
 
 <figure><img src="../../../../.gitbook/assets/Screenshot_2.png" alt=""><figcaption><p>Menambahkan Nilai Atribut</p></figcaption></figure>
 
