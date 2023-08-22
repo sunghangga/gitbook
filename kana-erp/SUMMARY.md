@@ -12,4 +12,5 @@
       * [Kategori](product-guides/stok-persediaan/manajemen-gudang/produk/kategori.md)
     * [Penyesuaian Stok](product-guides/stok-persediaan/manajemen-gudang/penyesuaian-stok/README.md)
       * [Penyesuaian per Produk](product-guides/stok-persediaan/manajemen-gudang/penyesuaian-stok/penyesuaian-per-produk.md)
+      * [Penyesuaian Multi Produk](product-guides/stok-persediaan/manajemen-gudang/penyesuaian-stok/penyesuaian-multi-produk.md)
 * [Penjualan](product-guides/sales.md)
