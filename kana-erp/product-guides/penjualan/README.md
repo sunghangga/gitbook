@@ -6,6 +6,6 @@ Penjualan adalah aplikasi untuk menjalankan proses penjualan (mulai dari penawar
 
 ## Point of Sales
 
-{% content-ref url="point-of-sale/footnote-di-tanda-terima.md" %}
-[footnote-di-tanda-terima.md](point-of-sale/footnote-di-tanda-terima.md)
+{% content-ref url="point-of-sale/catatan-di-tanda-terima.md" %}
+[catatan-di-tanda-terima.md](point-of-sale/catatan-di-tanda-terima.md)
 {% endcontent-ref %}
