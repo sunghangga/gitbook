@@ -13,4 +13,6 @@
     * [Penyesuaian Stok](product-guides/stok-persediaan/manajemen-gudang/penyesuaian-stok/README.md)
       * [Penyesuaian per Produk](product-guides/stok-persediaan/manajemen-gudang/penyesuaian-stok/penyesuaian-per-produk.md)
       * [Penyesuaian Multi Produk](product-guides/stok-persediaan/manajemen-gudang/penyesuaian-stok/penyesuaian-multi-produk.md)
-* [Penjualan](product-guides/sales.md)
+* [Penjualan](product-guides/penjualan/README.md)
+  * [Point of Sale](product-guides/penjualan/point-of-sale/README.md)
+    * [Footnote di Tanda Terima](product-guides/penjualan/point-of-sale/footnote-di-tanda-terima.md)
