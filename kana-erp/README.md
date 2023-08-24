@@ -10,3 +10,12 @@ coverY: 0
 
 # Overview
 
+Berikut panduan pengguna dan tutorial pengguna untuk setiap aplikasi.
+
+{% content-ref url="product-guides/stok-persediaan/" %}
+[stok-persediaan](product-guides/stok-persediaan/)
+{% endcontent-ref %}
+
+{% content-ref url="product-guides/penjualan/" %}
+[penjualan](product-guides/penjualan/)
+{% endcontent-ref %}
