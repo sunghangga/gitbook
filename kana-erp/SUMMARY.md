@@ -15,4 +15,4 @@
       * [Penyesuaian Multi Produk](product-guides/stok-persediaan/manajemen-gudang/penyesuaian-stok/penyesuaian-multi-produk.md)
 * [Penjualan](product-guides/penjualan/README.md)
   * [Point of Sale](product-guides/penjualan/point-of-sale/README.md)
-    * [Catatan di Tanda Terima](product-guides/penjualan/point-of-sale/catatan-di-tanda-terima.md)
+    * [Catatan Tanda Terima](product-guides/penjualan/point-of-sale/catatan-tanda-terima.md)
