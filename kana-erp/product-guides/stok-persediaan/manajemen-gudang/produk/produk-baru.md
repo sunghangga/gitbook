@@ -2,7 +2,7 @@
 
 Untuk membuat produk baru, dapat dilakukan melalui **Stok Persediaan > Produk > Produk**.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Daftar Produk</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Daftar Produk</p></figcaption></figure>
 
 Selanjutnya buat baru untuk menambahkan produk baru. Contoh ingin menambahkan produk baru, maka dapat mengikuti langkah berikut:
 
@@ -25,11 +25,11 @@ Jika barang berupa kain, maka dapat memilih satuan meter (m), atau yang dijual b
 7. Dalam **Kategori Produk** biarkan dalam kategori **"All"**.
 8. Tambahkan barcode pada **Barcode** untuk bisa melakukan print barcode dari produk yang diinput. Jika sudah maka akan terlihat seperti gambar di bawah.
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Informasi Umum Produk</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Informasi Umum Produk</p></figcaption></figure>
 
 9. Pada tab **Penjualan** centang **Tersedia di POS** untuk mengijinkan produk dijual melalui POS (Point of Sales).
 
-<figure><img src="../../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Setting Penjualan dari Produk</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Setting Penjualan dari Produk</p></figcaption></figure>
 
 10. Jika ada penambahan varian atau kategori produk dapat mengikuti langkah pada halaman [**varian produk**](varian.md) dan tambah kategori pada halaman [**kategori produk**](kategori.md).
 11. Untuk melakukan penyesuaian stok, dapat mengikuti langkah pada halaman [**penyesuaian stok**](../penyesuaian-stok/).
