@@ -16,6 +16,10 @@ Berikut panduan pengguna dan tutorial pengguna untuk setiap aplikasi.
 [stok-persediaan](product-guides/stok-persediaan/)
 {% endcontent-ref %}
 
+{% content-ref url="product-guides/pembelian/" %}
+[pembelian](product-guides/pembelian/)
+{% endcontent-ref %}
+
 {% content-ref url="product-guides/penjualan/" %}
 [penjualan](product-guides/penjualan/)
 {% endcontent-ref %}

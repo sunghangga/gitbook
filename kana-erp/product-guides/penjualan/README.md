@@ -1,6 +1,6 @@
 # Penjualan
 
-Penjualan adalah aplikasi untuk menjalankan proses penjualan (mulai dari penawaran hingga pesanan penjualan) dan mengirimkan serta menagih apa yang telah terjual.
+Modul Penjualan adalah aplikasi untuk menjalankan proses penjualan (mulai dari penawaran hingga pesanan penjualan) dan mengirimkan serta menagih apa yang telah terjual.
 
 ## Point of Sales
 
