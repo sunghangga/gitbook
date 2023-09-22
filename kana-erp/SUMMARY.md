@@ -21,3 +21,5 @@
 * [Penjualan](product-guides/penjualan/README.md)
   * [Point of Sale](product-guides/penjualan/point-of-sale/README.md)
     * [Catatan Tanda Terima](product-guides/penjualan/point-of-sale/catatan-tanda-terima.md)
+  * [Penjualan](product-guides/penjualan/penjualan/README.md)
+    * [Down Payment](product-guides/penjualan/penjualan/down-payment.md)
