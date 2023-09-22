@@ -9,3 +9,9 @@ Modul Penjualan adalah aplikasi untuk menjalankan proses penjualan (mulai dari p
 {% content-ref url="point-of-sale/catatan-tanda-terima.md" %}
 [catatan-tanda-terima.md](point-of-sale/catatan-tanda-terima.md)
 {% endcontent-ref %}
+
+## Penjualan
+
+{% content-ref url="penjualan/down-payment.md" %}
+[down-payment.md](penjualan/down-payment.md)
+{% endcontent-ref %}
