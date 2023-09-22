@@ -18,7 +18,7 @@ Pengisian detail nama pelanggan sangat dianjurkan agar saat penampilan data pela
 
 <figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Tambah Produk Baru</p></figcaption></figure>
 
-4. Jika sudah maka klik **"KONFIRMASI"** untuk mengkonfirmasi order penjualan.
+4. Jika ingin menambahkan syarat dan ketentuan atau detail bank tujuan transfer dapat diisi pada bagian **"Syarat & ketentuan"**, jika sudah maka klik **"KONFIRMASI"** untuk mengkonfirmasi order penjualan.
 5. Setelah order terbentuk, klik **"BUAT FAKTUR"** dan pilih pembayaran uang muka atau keseluruhan. Dalam kasus ini pilih **"Down Payment (persentase)"** untuk melakukan pembayaran uang muka berdasarkan persentase dan input persentase pembayarannya. Selanjutnya klik **"CREATE AND VIEW INVOICE"**.
 
 {% hint style="info" %}
@@ -34,7 +34,7 @@ Jika ingin melakukan pembayaran penuh silahkan pilih **"Faktur reguler"** jika p
 7. Pilih jurnal **"Bank"** jika pembayaran dilakukan melalui bank dan **"Cash"** jika pembayaran cash. Selanjutnya pilih **CREATE PAYMENT** untuk memvalidasi pembayaran. Maka proses pembayaran selesai.
 8. Selanjutnya jika ingin membayar sisanya, pilih **Sale Orders** atau klik nomor sale order, seperti gambar dibawah:
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Slae Order</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Sale Order</p></figcaption></figure>
 
 9 Untuk membayar sisanya, buat faktur untuk sisa pembayaran.
 
