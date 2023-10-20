@@ -4,7 +4,7 @@ Untuk menambahkan barcode pada suatu produk yang memiliki varian maupun yang tid
 
 <figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption><p>Produk atau Varian Produk</p></figcaption></figure>
 
-### **Barcode Produk Tanpa Varian**
+## **Barcode Produk Tanpa Varian**
 
 Penambahan barcode pada produk dapat melalui **Stok Persediaan > Produk**, selanjutnya ikuti langkah berikut:
 
@@ -19,7 +19,7 @@ Perlu diingat bahwa barcode harus identik untuk setiap produk atau tidak boleh s
 
 <figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption><p>Menambahkan Barcode pada Produk</p></figcaption></figure>
 
-### **Barcode Produk Dengan Varian**
+## **Barcode Produk Dengan Varian**
 
 Penambahan barcode pada produk dengan varian dapat melalui **Stok Persediaan > Varian Produk**, selanjutnya ikuti langkah berikut:
 
@@ -33,7 +33,7 @@ Penambahan barcode pada produk dengan varian dapat melalui **Stok Persediaan > V
 Penambahan barcode dapat dilakukan melalui halaman **Produk** maupun **Varian Produk** karena produk yang muncul pada halaman **Produk** akan muncul juga pada halaman **Varian Produk**.
 {% endhint %}
 
-### Cetak Label
+## Cetak Label
 
 Setelah membuat barcode untuk setiap produk, selanjutnya barcode dapat dicetak untuk ditempelkan pada produk. Berikut langkah-langkah untuk mencetak label barcode:
 
