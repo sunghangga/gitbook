@@ -14,6 +14,6 @@ Biasanya kategori digunakan untuk memudahkan dalam memilih produk di POS ataupun
 Jika kategori yang dibuat ada di bawah kategori lain, maka isi kategori induk dan jika kategori yang baru adalah kategori induk, maka biarkan kategori induk kosong.
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Jika sudah maka simpan pengubahan, dan proses selesai.

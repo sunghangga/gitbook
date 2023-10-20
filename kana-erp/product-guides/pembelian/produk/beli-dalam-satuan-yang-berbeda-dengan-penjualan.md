@@ -5,7 +5,7 @@ Saat membeli suatu produk, mungkin vendor menggunakan satuan ukuran yang berbeda
 1. Masuk ke halaman **Stok Persediaan > Konfigurasi > Pengaturan**.
 2. Pada bagian **Produk**, centang **Satuan** untuk mengaktifkan fitur satuan pada produk. Llau simpan pengubahan
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Opsi Satuan pada Produk</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Opsi Satuan pada Produk</p></figcaption></figure>
 
 3. Buat baru kategori satuan pada halaman **Stok Persediaan > Konfigurasi > Kategori Satuan**.
 4. Pilih **Baru** untuk membuat kategori baru untuk satuan, dalam hal ini akan dibuat kategori satuan baru untuk kain.
