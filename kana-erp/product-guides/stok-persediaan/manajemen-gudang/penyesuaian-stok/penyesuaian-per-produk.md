@@ -9,6 +9,6 @@ Penyesuaian stok per produk dapat dilakukan melalui **Stok Persediaan > Produk >
 
 3. Hitung stok produk yang tersedia (sesuai kenyataan) lalu input stok ke **Kuantitas di Tangan yang Baru** untuk melakukan update stok.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Penyesuaian Produk</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Penyesuaian Produk</p></figcaption></figure>
 
 4. Selanjutnya pilih terapkan, maka stok berhasil disesuaikan.

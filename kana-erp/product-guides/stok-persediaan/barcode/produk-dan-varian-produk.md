@@ -14,5 +14,7 @@ Langkahnya dapat melalui klik **stok persediaan > produk > pilih nama produk > b
 
 Langkahnya dapat melalui klik **stok persediaan > varian produk > pilih nama produk > buat kode barcode**
 
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Menambahkan Barcode pada Varian Produk</p></figcaption></figure>
+
 
 

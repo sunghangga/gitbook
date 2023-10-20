@@ -2,7 +2,7 @@
 
 Untuk membuat produk baru, dapat dilakukan melalui **Stok Persediaan > Produk > Produk**.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Daftar Produk</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Daftar Produk</p></figcaption></figure>
 
 Selanjutnya buat baru untuk menambahkan produk baru. Contoh ingin menambahkan produk baru, maka dapat mengikuti langkah berikut:
 

@@ -9,7 +9,7 @@ Penyesuaian stok multi produk dapat dilakukan melalui menu **Stok Persediaan**. 
 2. Klik **Baru**, selanjutnya akan muncul baris baru untuk memilih produk, pilihlah produk yang ingin disesuaikan stoknya.
 3. Pada kolom **Counted Quantity** masukkan jumlah barang aktual yang dimiliki. Jika sudah maka akan terlihat seperti berikut.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Tambah Penyesuaian Stok Produk</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Tambah Penyesuaian Stok Produk</p></figcaption></figure>
 
 {% hint style="info" %}
 Jika **Counted Quantity** lebih besar dari **On Hand Quantity** maka **Selisih** akan positif yang menandakan penambahan stok jika tidak maka negatif atau pengurangan stok.
