@@ -13,6 +13,8 @@
     * [Penyesuaian Stok](product-guides/stok-persediaan/manajemen-gudang/penyesuaian-stok/README.md)
       * [Penyesuaian per Produk](product-guides/stok-persediaan/manajemen-gudang/penyesuaian-stok/penyesuaian-per-produk.md)
       * [Penyesuaian Multi Produk](product-guides/stok-persediaan/manajemen-gudang/penyesuaian-stok/penyesuaian-multi-produk.md)
+  * [Barcode](product-guides/stok-persediaan/barcode/README.md)
+    * [Produk dan Varian Produk](product-guides/stok-persediaan/barcode/produk-dan-varian-produk.md)
 * [Pembelian](product-guides/pembelian/README.md)
   * [Produk](product-guides/pembelian/produk/README.md)
     * [Beli dalam Satuan yang Berbeda dengan Penjualan](product-guides/pembelian/produk/beli-dalam-satuan-yang-berbeda-dengan-penjualan.md)

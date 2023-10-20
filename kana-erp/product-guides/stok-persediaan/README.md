@@ -31,3 +31,11 @@ Modul Stok Persediaan adalah aplikasi inventaris dan sistem manajemen gudang, de
 {% content-ref url="manajemen-gudang/penyesuaian-stok/penyesuaian-multi-produk.md" %}
 [penyesuaian-multi-produk.md](manajemen-gudang/penyesuaian-stok/penyesuaian-multi-produk.md)
 {% endcontent-ref %}
+
+### Barcode
+
+***
+
+{% content-ref url="barcode/produk-dan-varian-produk.md" %}
+[produk-dan-varian-produk.md](barcode/produk-dan-varian-produk.md)
+{% endcontent-ref %}
